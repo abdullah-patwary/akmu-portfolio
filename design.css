@@ -37,13 +37,15 @@ section{
 
  #id1{
     text-align: center;
-    position :absolute;
-    bottom : 0;
-    height : 40px;
-    margin-top : 40px;
-    border: 5px rgb(58, 233, 19);
     background-color: black;
     color: cyan;
-    font-size: 30px;
+    font-size: large;
 
+ }
+ 
+ #under-construction{
+     /* width: 100%; */
+     width: 60%;
+     height: 60%px;
+     margin-left: 20%;
  }
