@@ -25,4 +25,8 @@ section{
     text-decoration: none;
     color: rgb(28, 235, 235);
     padding-right: 20px;
+    transition-property: color; 
+    transition-duration: .5s; 
+    transition-timing-function:steps(10);
 }
+ .top-button:hover {color: rgb(206, 5, 242); }
