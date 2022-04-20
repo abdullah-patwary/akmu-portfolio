@@ -1,21 +1,25 @@
 section{
-    height:fit-content;
+    height: 160px;;
     width: 100%;
     border: 100px rgb(58, 233, 19);
     background-color: black;
 }
+
 .top-banner{
     float: left;
 }
+
 .first{
     margin: 50px 200px;
 }
+
 .second{
     border-radius: 0;
     margin-left: 50px;
     margin-top: 70px;
     padding: 5px;
 }
+
 .top-button{
     background: transparent;
     text-decoration: none;
@@ -30,3 +34,16 @@ section{
     transition-timing-function:steps(10);
 }
  .top-button:hover {color: rgb(206, 5, 242); }
+
+ #id1{
+    text-align: center;
+    position :absolute;
+    bottom : 0;
+    height : 40px;
+    margin-top : 40px;
+    border: 5px rgb(58, 233, 19);
+    background-color: black;
+    color: cyan;
+    font-size: 30px;
+
+ }
